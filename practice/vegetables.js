@@ -1,0 +1,1 @@
+vegetables = ['pepper', 'onion', 'potato']
